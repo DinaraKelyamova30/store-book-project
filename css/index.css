@@ -1,0 +1,49 @@
+#carouselOffers {
+    height: 500px;
+}
+
+.bg-light {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.carusel-item {
+    background-color: orangered;
+}
+
+nav {
+    background-color: orangered;
+}
+
+nav a img {
+    height: 70px;
+    width: auto;
+}
+
+#carouselOffers img {
+    max-height: 450px;
+}
+
+.intro {
+    max-width: 400px;
+    margin-top: 150px;
+    text-align: center;
+}
+.card {
+    height: 100%;
+}
+
+.alert {
+    position: fixed;
+    top: 50px;
+    width: 50%;
+    left: 25%;
+    z-index: 1051;
+}
+
+.btn {
+    padding: 0.75rem 0.7rem;
+}
